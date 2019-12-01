@@ -1,3 +1,5 @@
+package apply;
+
 public class DCL {
 
     private  static volatile DCL instance;

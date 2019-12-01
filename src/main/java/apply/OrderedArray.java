@@ -1,3 +1,5 @@
+package apply;
+
 //使用三个线程顺序打印有序的数组
 public class OrderedArray {
 
